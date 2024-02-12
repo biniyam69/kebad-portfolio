@@ -1,2 +1,1 @@
-# kebad-portfolio
-ሪኣክት ቡወርትፎሊዮ
+# ethan-portfolio-starter
